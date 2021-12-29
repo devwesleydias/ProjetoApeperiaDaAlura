@@ -1,0 +1,1 @@
+Projeto que será desenvolvido durante as aulas do curso, "Layouts Responsivos: Trabalhando com layouts mobile" da Alura.
